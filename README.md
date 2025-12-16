@@ -100,7 +100,7 @@ salary-prediction-2025/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/salary-prediction-2025.git
+git clone https://github.com/ialisha64/salary-prediction-2025.git
 cd salary-prediction-2025
 
 # Create virtual environment (recommended)
@@ -445,10 +445,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Alisha Hassan**
+- LinkedIn: [linkedin.com/in/alisha-hassan-650782356](https://www.linkedin.com/in/alisha-hassan-650782356)
+- GitHub: [@ialisha64](https://github.com/ialisha64)
 
 ---
 
@@ -467,11 +466,11 @@ If you use this project in your research or work, please cite:
 
 ```bibtex
 @misc{salary_prediction_2025,
-  author = {Your Name},
+  author = {Alisha Hassan},
   title = {Advanced Salary Prediction System 2025},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/salary-prediction-2025}
+  url = {https://github.com/ialisha64/salary-prediction-2025}
 }
 ```
 
