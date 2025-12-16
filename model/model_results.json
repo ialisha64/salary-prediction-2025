@@ -1,0 +1,146 @@
+{
+    "Linear Regression_train": {
+        "model": "Linear Regression (Train)",
+        "MAE": 34676.38,
+        "RMSE": 43772.7,
+        "R2": 0.9356,
+        "MAPE": 16.85,
+        "Within_10%": 54.92
+    },
+    "Linear Regression_test": {
+        "model": "Linear Regression (Test)",
+        "MAE": 34877.97,
+        "RMSE": 43715.01,
+        "R2": 0.9366,
+        "MAPE": 17.16,
+        "Within_10%": 54.44
+    },
+    "Ridge Regression_train": {
+        "model": "Ridge Regression (Train)",
+        "MAE": 34683.14,
+        "RMSE": 43773.26,
+        "R2": 0.9356,
+        "MAPE": 16.87,
+        "Within_10%": 54.9
+    },
+    "Ridge Regression_test": {
+        "model": "Ridge Regression (Test)",
+        "MAE": 34886.9,
+        "RMSE": 43716.93,
+        "R2": 0.9366,
+        "MAPE": 17.18,
+        "Within_10%": 54.37
+    },
+    "Lasso Regression_train": {
+        "model": "Lasso Regression (Train)",
+        "MAE": 34678.28,
+        "RMSE": 43772.83,
+        "R2": 0.9356,
+        "MAPE": 16.86,
+        "Within_10%": 54.96
+    },
+    "Lasso Regression_test": {
+        "model": "Lasso Regression (Test)",
+        "MAE": 34879.77,
+        "RMSE": 43713.2,
+        "R2": 0.9366,
+        "MAPE": 17.17,
+        "Within_10%": 54.41
+    },
+    "Decision Tree_train": {
+        "model": "Decision Tree (Train)",
+        "MAE": 6228.36,
+        "RMSE": 14348.27,
+        "R2": 0.9931,
+        "MAPE": 3.17,
+        "Within_10%": 91.12
+    },
+    "Decision Tree_test": {
+        "model": "Decision Tree (Test)",
+        "MAE": 7672.51,
+        "RMSE": 18856.98,
+        "R2": 0.9882,
+        "MAPE": 3.86,
+        "Within_10%": 88.76
+    },
+    "XGBoost_train": {
+        "model": "XGBoost (Train)",
+        "MAE": 1581.57,
+        "RMSE": 2182.01,
+        "R2": 0.9998,
+        "MAPE": 0.65,
+        "Within_10%": 100.0
+    },
+    "XGBoost_test": {
+        "model": "XGBoost (Test)",
+        "MAE": 4104.75,
+        "RMSE": 6792.52,
+        "R2": 0.9985,
+        "MAPE": 1.68,
+        "Within_10%": 98.47
+    },
+    "LightGBM_train": {
+        "model": "LightGBM (Train)",
+        "MAE": 3825.07,
+        "RMSE": 5432.33,
+        "R2": 0.999,
+        "MAPE": 1.64,
+        "Within_10%": 98.79
+    },
+    "LightGBM_test": {
+        "model": "LightGBM (Test)",
+        "MAE": 4638.06,
+        "RMSE": 7080.04,
+        "R2": 0.9983,
+        "MAPE": 1.99,
+        "Within_10%": 97.83
+    },
+    "CatBoost_train": {
+        "model": "CatBoost (Train)",
+        "MAE": 4908.98,
+        "RMSE": 6637.83,
+        "R2": 0.9985,
+        "MAPE": 1.95,
+        "Within_10%": 98.73
+    },
+    "CatBoost_test": {
+        "model": "CatBoost (Test)",
+        "MAE": 5335.83,
+        "RMSE": 7356.34,
+        "R2": 0.9982,
+        "MAPE": 2.16,
+        "Within_10%": 97.98
+    },
+    "Voting_train": {
+        "model": "Voting (Train)",
+        "MAE": 2890.53,
+        "RMSE": 3962.33,
+        "R2": 0.9995,
+        "MAPE": 1.19,
+        "Within_10%": 99.69
+    },
+    "Voting_test": {
+        "model": "Voting (Test)",
+        "MAE": 4032.5,
+        "RMSE": 6069.16,
+        "R2": 0.9988,
+        "MAPE": 1.67,
+        "Within_10%": 98.68
+    },
+    "Stacking_train": {
+        "model": "Stacking (Train)",
+        "MAE": 2947.57,
+        "RMSE": 4011.84,
+        "R2": 0.9995,
+        "MAPE": 1.22,
+        "Within_10%": 99.7
+    },
+    "Stacking_test": {
+        "model": "Stacking (Test)",
+        "MAE": 4049.32,
+        "RMSE": 6052.1,
+        "R2": 0.9988,
+        "MAPE": 1.68,
+        "Within_10%": 98.72
+    }
+}

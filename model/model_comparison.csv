@@ -1,0 +1,10 @@
+,model,MAE,RMSE,R2,MAPE,Within_10%
+Voting_test,Voting (Test),4032.5,6069.16,0.9988,1.67,98.68
+Stacking_test,Stacking (Test),4049.32,6052.1,0.9988,1.68,98.72
+XGBoost_test,XGBoost (Test),4104.75,6792.52,0.9985,1.68,98.47
+LightGBM_test,LightGBM (Test),4638.06,7080.04,0.9983,1.99,97.83
+CatBoost_test,CatBoost (Test),5335.83,7356.34,0.9982,2.16,97.98
+Decision Tree_test,Decision Tree (Test),7672.51,18856.98,0.9882,3.86,88.76
+Linear Regression_test,Linear Regression (Test),34877.97,43715.01,0.9366,17.16,54.44
+Ridge Regression_test,Ridge Regression (Test),34886.9,43716.93,0.9366,17.18,54.37
+Lasso Regression_test,Lasso Regression (Test),34879.77,43713.2,0.9366,17.17,54.41
